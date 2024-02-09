@@ -3,7 +3,7 @@
   <img width="100%" height="50%"
     src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!;Welcome+to+my+profile!"/>
   
-  <img  src="<img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" width="160" />
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
 </div>
 
 
