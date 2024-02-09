@@ -13,6 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&langs_count=16&theme=dracula"/>
   <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
+
   
   ##
  
