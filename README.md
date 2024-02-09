@@ -17,9 +17,8 @@
   ##
  
 <div> 
-  -I'm currently attending high school integrated with System Development at IFPR;(\n)
-  -I'm 15yo;
-  
+  <h2>-I'm currently attending high school integrated with System Development at IFPR;</h2>
+  <h2>-I'm 15yo;</h2>
   <h2> And you can find me on gmail and instagram. </h2>
 <a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
   <a href="https://www.instagram.com/h4ik0_mo0n/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
