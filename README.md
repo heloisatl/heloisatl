@@ -25,7 +25,7 @@
 
 - I'm 15 years old.
   
-- 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
+- 💬 Ask me about anything [here](https://github.com/heloisatl/heloisatl/issues) or on my email at the end of the readme⬇⬇
 </div>
 
 <a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
