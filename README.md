@@ -30,7 +30,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 
 
-<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=180&section=footer"/>
+<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=120&section=footer"/>
  
  
 
