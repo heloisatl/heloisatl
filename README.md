@@ -17,7 +17,7 @@
   ##
  
 <div> 
-<a href = "heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
+<a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
   <a href="https://www.instagram.com/h4ik0_mo0n/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
