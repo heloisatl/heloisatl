@@ -1,7 +1,7 @@
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=180&section=header"/>
 <div align="center">
   <img width="100%" height="50%"
-    src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!"/>
+    src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!;Welcome+to+my+profile"/>
   
   <img  src="https://i.picasion.com/pic92/0164c18e76a7f5a78cccb7e4f4a1868f.gif"  text-align="middle" width="12%" height="12%" border="2%" alt="https://picasion.com/" />
 </div>
