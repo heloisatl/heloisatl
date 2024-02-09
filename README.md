@@ -17,7 +17,7 @@
   ##
  
 <div> 
-  -I'm currently attending high school integrated with System Development at IFPR;
+  -I'm currently attending high school integrated with System Development at IFPR;(\n)
   -I'm 15yo;
   
   <h2> And you can find me on gmail and instagram. </h2>
