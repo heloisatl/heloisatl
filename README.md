@@ -21,13 +21,9 @@
 <h2>About me</h2>
 <div>
 
-- 🧐💻 I am currently attending high school integrated with systems development technician at IFPR.
+-  I am currently attending high school integrated with Systems Development  at IFPR.
 
-- ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
-
-- 🍰🎈My birthday is 11/06 and I'm currently 17 years old
-  
-- 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
+- I'm 15 years old.
   
 - 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
 </div>
