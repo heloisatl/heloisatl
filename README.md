@@ -1,4 +1,11 @@
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<div align="center">
+  <img width="100%" height="50%"
+    src="https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!+:%29;S2"/>
+  
+  <img  src="https://i.picasion.com/pic92/0164c18e76a7f5a78cccb7e4f4a1868f.gif"  text-align="middle" width="12%" height="12%" border="2%" alt="https://picasion.com/" />
+</div>
+
 
  <div>
   <a href="https://github.com/heloisatl">
