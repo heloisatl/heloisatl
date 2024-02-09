@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=100&section=header"/>
 <div align="center">
   <img width="100%" height="50%"
     src="https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!+:%29;S2"/>
