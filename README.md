@@ -16,11 +16,22 @@
   
   ##
  
-<div> 
-  -I'm currently attending high school integrated with System Development at IFPR;
-  -I'm 15yo;
-   And you can find me on gmail and instagram. 
-  </div>
+<br></br>
+
+<h2>About me</h2>
+<div>
+
+- 🧐💻 I am currently attending high school integrated with systems development technician at IFPR.
+
+- ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
+
+- 🍰🎈My birthday is 11/06 and I'm currently 17 years old
+  
+- 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
+  
+- 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
+</div>
+
 <a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
   <a href="https://www.instagram.com/h4ik0_mo0n/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
