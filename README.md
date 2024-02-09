@@ -17,7 +17,7 @@
   ##
  
 <div> 
-
+<a href = "heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="15%"></a>
   <a href="https://www.instagram.com/h4ik0_mo0n/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
@@ -30,7 +30,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 
 
-<img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=#ADD8E6&height=120&section=footer"/>
  
  
 
