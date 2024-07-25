@@ -1,7 +1,7 @@
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=EF9595&height=200&section=header"/>
 <div align="center">
   <img width="100%" height="50%"
-    src="https://readme-typing-svg.herokuapp.com/?color=EFB495&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!;Welcome+to+my+profile!"/>
+    src="https://readme-typing-svg.herokuapp.com/?color=FC819E&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!;Welcome+to+my+profile!"/>
   
   <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
 </div>
