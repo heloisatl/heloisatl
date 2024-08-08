@@ -10,7 +10,7 @@
 
  <div align="center">
   <a href="https://github.com/heloisatl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisatl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" color=#26B3FF src="https://github-readme-stats.vercel.app/api?username=heloisatl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
   <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
