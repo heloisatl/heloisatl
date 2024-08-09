@@ -34,8 +34,8 @@
   <a href="https://www.instagram.com/helo_tdl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
-<h2 color=0300c4> Languages - Frameworks - Tools: </h2>
-  &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50px" />
+<h2> Languages - Frameworks - Tools: </h2>
+  &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50px" color=0300c4/>
 </div>
   
 <div align="center">
