@@ -10,7 +10,7 @@
 
  <div align="center">
   <a href="https://github.com/heloisatl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisatl_icons=true&count_private=true&hide_border=true&title_color=bf00ff&icon_color=bf00ff&text_color=c9d1d9&bg_color=0d1117" alt="Heloisa T. L.'s GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anastoledo&show_icons=true&count_private=true&hide_border=true&title_color=bf00ff&icon_color=bf00ff&text_color=c9d1d9&bg_color=0d1117" alt="Ana Júlia Toledo github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
   <img align="right" width="120" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div>
