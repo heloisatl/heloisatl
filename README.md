@@ -35,7 +35,7 @@
 </div>
 <div align="center">
 <h2> Languages - Frameworks - Tools: </h2>
-  &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50px" color=0300c4/>
+  &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50px />
 </div>
   
 <div align="center">
