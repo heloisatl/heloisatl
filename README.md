@@ -24,7 +24,7 @@
 
 -  I am currently attending high school integrated with Systems Development  at IFPR.
 
-- I'm 15 years old.
+- I'm 16 years old.
   
 - 💬 Ask me about anything [here](https://github.com/heloisatl/heloisatl/issues) or on my email.
 </div>
