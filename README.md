@@ -11,7 +11,7 @@
  <div align="center">
   <a href="https://github.com/heloisatl">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heloisatl&show_icons=true&count_private=true&hide_border=true&title_color=#232399&icon_color=02007a&text_color=c9d1d9&bg_color=#232399" alt="Heloisa T. L.'s GitHub Stats stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&hide_border=true&title_color=02007a&text_color=ffffff&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&hide_border=true&title_color=02007a&text_color=ffffff&bg_color=#232399" />
 </div>
 
   
