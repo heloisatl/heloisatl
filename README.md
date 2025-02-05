@@ -3,7 +3,12 @@
   <img width="100%" height="50%"
     src="https://readme-typing-svg.herokuapp.com/?color=26B3FFsize=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Heloisa!;Welcome+to+my+profile!"/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
+  <p align="center">
+  <a href="https://github.com/heloisatl">
+    <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api?username=heloisatl&count_private=true&show_icons=true&theme=material-palenight&border_radius=10&custom_title=My%20GitHub%20Stats"/>
+    <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&count_private=true&show_icons=true&theme=material-palenight&border_radius=10"/>
+  </a>
+</p>
   
 </div>
 
