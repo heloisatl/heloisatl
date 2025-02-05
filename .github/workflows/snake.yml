@@ -42,9 +42,15 @@ jobs:
 
       # Step 1: Checkout the repository
 
+          steps:
       - name: Checkout Repository
-
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Evita erros com autenticação
+
+      - name: Skip installing dependencies
+        run: echo "Skipping dependency installation"
+
 
 
 
