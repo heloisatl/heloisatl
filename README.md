@@ -5,7 +5,7 @@
   
   <p align="center">
   <a href="https://github.com/heloisatl">
-    <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api?color:1398dbusername=heloisatl&count_private=true&show_icons=true&theme=material-palenight&border_radius=10&custom_title=My%20GitHub%20Stats"/>
+    <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api?username=heloisatl&count_private=true&show_icons=true&theme=material-palenight&color:1398db&border_radius=10&custom_title=My%20GitHub%20Stats"/>
     <img align="center" height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisatl&layout=compact&count_private=true&show_icons=true&theme=material-palenight&border_radius=10"/>
   </a>
 </p>
