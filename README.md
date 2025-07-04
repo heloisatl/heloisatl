@@ -12,8 +12,10 @@
   
 </div>
 
-
- ![https://github.com/heloisatl/heloisatl/blob/output/github-contribution-grid-snake.gif](https://github.com/heloisatl/heloisatl/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">🐍 Snake Game</h2>
+<p align="center">
+  <img src="https://github.com/heloisatl/heloisatl/blob/output/github-snake.svg" alt="snake animation" />
+</p>
   
   ##
  
