@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/heloisatl/master/name.svg" alt="Heloisa Tonin" />
-</h1>
+
 
   <p align="center">
   <a href="https://github.com/heloisatl">
