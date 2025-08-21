@@ -1,4 +1,4 @@
-(https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif)
+<img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
 
 
 <p align="left">
