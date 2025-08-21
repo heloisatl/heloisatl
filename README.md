@@ -1,4 +1,4 @@
-![Heloisa Tonin](heloisa_glitch_custom_transparent.gif)
+![Heloisa Tonin](heloisa_neon_custom_transparent.gif)
 
 
 <p align="left">
