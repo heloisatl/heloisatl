@@ -1,7 +1,5 @@
-<p align="center">
-  
-   <a href="[heloisatl](https://github.com/heloisatl/heloisatl/heloisa_neon_custom_transparent.gif)
-    </a>
+(https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif)
+
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
