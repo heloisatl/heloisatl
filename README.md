@@ -1,5 +1,6 @@
-![Heloisa Tonin](heloisa_neon_custom_transparent.gif)
-
+<p align="center">
+  ![Heloisa Tonin](heloisa_neon_custom_transparent.gif)
+</a>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
