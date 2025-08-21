@@ -1,6 +1,7 @@
 <p align="center">
-  ![Heloisa Tonin](heloisa_neon_custom_transparent.gif)
-</p>
+  
+   <a href="[heloisatl](https://github.com/heloisatl/heloisatl/heloisa_neon_custom_transparent.gif)
+    </a>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
