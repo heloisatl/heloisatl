@@ -1,5 +1,6 @@
-<img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
-
+<p align="center">
+  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
+</p>
 
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
