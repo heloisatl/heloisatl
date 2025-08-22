@@ -37,7 +37,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/php.gif" width="100">
-<img src="https://substackcdn.com/image/fetch/$s_!p2GT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F092024f1-2375-4a3f-8054-ed2df7a04f60_480x220.gif width="100">
+<img src="https://github.com/heloisatl/heloisatl/blob/main.yml/git.gif?raw=true" width="100">
 
 
 <div align="center">
