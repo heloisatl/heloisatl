@@ -15,6 +15,8 @@
 
 -  I am currently attending high school integrated with Systems Development  at IFPR.
 
+-  I am working at Itaipu Parquetec on CyberSecurity
+
 - I'm 16 years old.
   
 - 💬 Ask me about anything [here](https://github.com/heloisatl/heloisatl/issues) or on my email.
