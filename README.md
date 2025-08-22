@@ -23,7 +23,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true" width="90" alt="IFPR" />
+  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true" width="90" pr="10 "alt="IFPR" />
   <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/itaipuparquetec-logo.png?raw=true" width="90" alt="ItaipuParquetec" />
 </div>
 
