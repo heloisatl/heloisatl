@@ -11,7 +11,7 @@
 </p>
 
 <h2>About me</h2>
-<div>
+<div align="left">
 
 -  I am currently attending high school integrated with Systems Development  at IFPR.
 
@@ -20,6 +20,10 @@
 - I'm 16 years old.
   
 - 💬 Ask me about anything [here](https://github.com/heloisatl/heloisatl/issues) or on my email.
+</div>
+
+<div align="right">
+  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true width="100">
 </div>
 
 <a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
