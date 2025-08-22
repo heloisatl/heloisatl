@@ -14,6 +14,7 @@
 <div align="left">
 
 -  I am currently attending high school integrated with Systems Development  at IFPR.
+  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true" width="150px" alt="IFPR" />
 
 -  I am doing an internship at Itaipu Parquetec in the field of Cybersecurity.
 
@@ -23,7 +24,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true" width="150px" alt="IFPR" />
+  
   <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/itaipuparquetec-logo.png?raw=true" width="150px" alt="ItaipuParquetec" />
 </div>
 
