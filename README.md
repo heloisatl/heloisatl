@@ -1,10 +1,9 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=80&duration=3000&center=true&lines=Greetings,%0AWelcome%20to%20my%20GitHub%20profile">
-
 
 <p align="center">
   <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
-  <p align="center">Hi there! Welcome to my profile!</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=10&color=%2379A500&height=80&duration=3000&center=true&lines=Greetings,%0AWelcome%20to%20my%20GitHub%20profile">
+
+
 </p>
 
 <p align="left">
