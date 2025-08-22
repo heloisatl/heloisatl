@@ -34,8 +34,7 @@
 </div>
 <div align="center">
   
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+<img src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko&border_color=599200">
 
 
   
