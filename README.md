@@ -3,7 +3,7 @@
   <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
 
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=10&color=1A2A80&height=80&duration=5000&center=true&lines=Greetings!%0AWelcome%20to%20my%20GitHub%20profile" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=10&color=1A2A80&height=80&duration=5000&center=true&lines=Greetings!%0AWelcome%20to%20my%20GitHub%20profile!" width="700">
 
 <p align="left">
  
