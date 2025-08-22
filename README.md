@@ -23,8 +23,8 @@
 </div>
 
 <div align="right">
-  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/ifpr-logo.png?raw=true width="80px" alt="macropower" align="right">
-  <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/itaipuparquetec-logo.png?raw=true  width="80px" alt="macropower" align="right">
+  <img src="https://github.com/heloisatl/heloisatl/raw/main/ifpr-logo.png" width="50" alt="IFPR" />
+  <img src="https://github.com/heloisatl/heloisatl/raw/main/itaipuparquetec-logo.png" width="50" alt="ItaipuParquetec" />
 </div>
 
 <a href = "mailto:heloisa.tonin.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="9%"></a>
