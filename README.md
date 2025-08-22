@@ -3,8 +3,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/heloisatl/heloisatl">
+    <img src="https://komarev.com/ghpvc/?username=heloisatl" alt="page views" />
   </a>
   <a href="https://jacobcolvin.com">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
