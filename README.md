@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/heloisatl/heloisatl/blob/main.yml/heloisa_neon_custom_transparent.gif">
-  <p>Hi there! Welcome to my profile!</p>
+  <p align="center">Hi there! Welcome to my profile!</p>
 </p>
 
 <p align="left">
