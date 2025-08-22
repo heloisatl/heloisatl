@@ -4,8 +4,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/heloisatl/heloisatl">
-    <img src="https://komarev.com/ghpvc/?username=heloisatl" alt="page views" />
+ 
   </a>
 
 
@@ -38,7 +37,8 @@
 
 <div align="center">
 <br><p><b>👥Visitors Count👥</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{heloisatl}/count.svg" /></p> 
+ <a href="https://github.com/heloisatl/heloisatl">
+    <img src="https://komarev.com/ghpvc/?username=heloisatl" alt="page views" />
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0300c4&height=120&section=footer"/>
