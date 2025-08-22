@@ -15,7 +15,7 @@
 
 -  I am currently attending high school integrated with Systems Development  at IFPR.
 
--  I am currently doing an internship at Itaipu Parquetec in the field of Cybersecurity.
+-  I am doing an internship at Itaipu Parquetec in the field of Cybersecurity.
 
 - I'm 16 years old.
   
