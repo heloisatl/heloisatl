@@ -34,7 +34,7 @@
 <div align="center">
 
 
-
+![Snake animation](https://github.com/heloisatl/heloisatl/blob/output/github-contribution-grid-snake.svg)
 
   
 <h2> Languages - Frameworks - Tools: </h2>
