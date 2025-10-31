@@ -34,8 +34,6 @@
 <div align="center">
 
 
-![Snake animation](https://github.com/heloisatl/heloisatl/blob/output/github-contribution-grid-snake.svg)
-
   
 <h2> Languages - Frameworks - Tools: </h2>
   &nbsp; <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="50px" />
@@ -56,5 +54,9 @@
  <a href="https://github.com/heloisatl/heloisatl">
     <img src="https://komarev.com/ghpvc/?username=heloisatl" alt="page views" />
 <br></div>
+
+
+![Snake animation](https://github.com/heloisatl/heloisatl/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0300c4&height=120&section=footer"/>
